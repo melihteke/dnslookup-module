@@ -17,10 +17,10 @@ IPython 8.12.0 -- An enhanced Interactive Python. Type '?' for help.
 
 In [1]: from dnslookup import DNSLookup
 
-In [2]: query = DNSLookup(domain="www.cisco.com")
+In [2]: query = DNSLookup(domain="www.mteke.com")
 
 In [3]: query.get_ip()
-Out[3]: ['23.51.66.59']
+Out[3]: ['81.169.145.158']
 
 In [4]: 
 
