@@ -1,5 +1,7 @@
+
+import socket
 class DNSLookup:
-    import socket
+
     def __init__(self, domain):
         
         """
