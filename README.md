@@ -20,7 +20,7 @@ In [1]: from dnslookup import DNSLookup
 In [2]: query = DNSLookup(domain="www.mteke.com")
 
 In [3]: query.get_ip()
-Out[3]: ['81.169.145.158']
+Out[3]: ['81.129.175.158']
 
 In [4]: 
 
