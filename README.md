@@ -45,5 +45,4 @@ Performs a DNS lookup and returns the IP address(es) associated with the domain.
 list (str): A list of IP addresses associated with the domain.
 Raises
 socket.gaierror: If the DNS lookup fails.
-##### License
-This module is released under the MIT License. See LICENSE for more information.
+
