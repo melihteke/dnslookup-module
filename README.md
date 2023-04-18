@@ -10,6 +10,11 @@ git clone https://github.com/melihteke/dnslookup-module.git
 Here's an example of how to use the DNSLookup module to perform a DNS lookup:
 
 ```sh
+pip install dnslookup-module
+```
+
+
+```sh
 (.venv) MTeke1@APKM2W42362BA4 dnslookup-module % ipython
 Python 3.8.9 (default, Apr 13 2022, 08:48:06) 
 Type 'copyright', 'credits' or 'license' for more information
