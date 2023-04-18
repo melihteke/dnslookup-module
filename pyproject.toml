@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dnslookup-module"
+version = "1.0.0"
+authors = [
+  { name="Melih Teke", email="me@mteke.com" },
+]
+description = "A small package for checking the client's dns resulotion for A records"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/melihteke/dnslookup-module”
+"Bug Tracker" = "https://github.com/melihteke/dnslookup-module/issues"
