@@ -55,4 +55,4 @@ socket.gaierror: If the DNS lookup fails.
 
 
 ### CI/CD
-This repo is managed with github actions.
+This Repo is managed with github actions.
