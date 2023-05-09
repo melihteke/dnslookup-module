@@ -51,3 +51,8 @@ list (str): A list of IP addresses associated with the domain.
 Raises
 socket.gaierror: If the DNS lookup fails.
 
+
+
+
+### CI/CD
+This repo is managed with github actions.
